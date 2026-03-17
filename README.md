@@ -10,3 +10,7 @@
 3.Run the inference script:
 
 `bash inference.sh`
+
+
+## Pretrained Model
+
