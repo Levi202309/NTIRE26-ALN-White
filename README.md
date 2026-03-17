@@ -1,7 +1,7 @@
 # Official Implementation of NTIRE26 ALN-White Competition 
 
 
-1.Download the pre-trained weights at:
+1.Download the pre-trained weights at: [https://drive.google.com/file/d/1U2AdyKjiFHq0nHfqBWKAKhU2LnF0xO9S/view?usp=sharing](https://drive.google.com/file/d/1U2AdyKjiFHq0nHfqBWKAKhU2LnF0xO9S/view?usp=sharing)
 
 2.Install the dependencies from `requirements.txt`:
 
